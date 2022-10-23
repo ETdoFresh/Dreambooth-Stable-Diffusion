@@ -1,3 +1,6 @@
+# ETs Notes
+I am forking this repo so I can more easily run the collab notebook as needed.
+
 # Index
 
 - [Notes by Joe Penna](#notes-by-joe-penna)
